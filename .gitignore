@@ -1,0 +1,10 @@
+__pycache__/
+
+.venv/Lib/site-packages
+.venv/streamlit_app_management/streamlit_app_management/
+.venv/streamlit_app_management/tests/
+.venv/streamlit_app_management/poetry.lock
+
+*.cfg
+*.md
+

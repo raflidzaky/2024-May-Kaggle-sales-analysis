@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "streamlit-app-management"
+version = "0.1.0"
+description = ""
+authors = ["raflidzaky <raflidzakyansyah@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.34.0"
+numpy = "^1.26.4"
+scikit-learn = "^1.4.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
